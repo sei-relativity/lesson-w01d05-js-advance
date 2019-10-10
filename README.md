@@ -12,7 +12,6 @@
 
 ## Hoisting:
 ![](images/5.png)
-![](images/7.png)
 
 ## Closures:
 ![](images/6.png)
