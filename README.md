@@ -26,4 +26,5 @@
 #### Additional Resources:
 - [Scope](https://developer.mozilla.org/en-US/docs/Glossary/Scope)
 - [Hoisting](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
-- [Closures](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
+- [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
+- [IIFE](https://developer.mozilla.org/en-US/docs/Glossary/IIFE)
