@@ -5,6 +5,8 @@
 ![](images/2.png)
 - ### Functional Scoping
 - ### Block Scoping
+
+---
 ![](images/3.png)
 ![](images/4.png)
 
